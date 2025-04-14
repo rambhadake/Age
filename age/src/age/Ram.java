@@ -10,7 +10,7 @@ public class Ram {
        int age = sc.nextInt();
        
        if(age > 20) {
-    	   System.out.println("Adult");
+    	   System.out.println("Adult is not possible");
        }
        else {
     	   System.out.println("Not-Adult");
