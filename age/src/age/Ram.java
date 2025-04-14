@@ -13,7 +13,7 @@ public class Ram {
     	   System.out.println("Adult is not possible");
        }
        else {
-    	   System.out.println("Not-Adult");
+    	   System.out.println("my age is adult");
        }
 	}
 
